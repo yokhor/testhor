@@ -1,0 +1,7 @@
+Hi! I'm a testing bot designed by @yokhor. Now I can only test the task C from the SPSU selection, but soon I'll be able to test solutions for other problems.
+Commands to use me:
+
+/start — show this message
+/test — enable the ready-to-test mode; the next document sent will be handled as a solution
+/test_all — to automatically test all sent documents; got disabled by the same command
+/stop — stop the current testing session if any
