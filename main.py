@@ -5,7 +5,7 @@ from math import log
 
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = open('.token.txt').read()[:-1]
+API_TOKEN = open('.bot_token.txt').read()[:-1]
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 testing_now = False
