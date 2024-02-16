@@ -1,0 +1,12 @@
+# version 1.0.0:
+- added two real problems and A + B
+- added python solution support
+- added option to choose a task to test
+- changed greeting message
+- added updates log
+- removed test_all option
+- changed file hierarchy 
+- checker bug with '\n' fixed
+- added some stikers to verdicts
+
+

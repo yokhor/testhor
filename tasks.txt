@@ -1,0 +1,5 @@
+000 — A \+ B
+001 — task C from [SPBU selection](https://tsweb.ru/olymp/2023-2024/2023-selection-a-j.pdf)
+002 — [task C from vuzak2 selection](https://official.contest.yandex.ru/contest/59642/problems/C/)
+003 — [task D from vuzak2 selection](https://official.contest.yandex.ru/contest/59642/problems/D/)
+777 — [the best task ever](https://t.me/yokhohor/8)

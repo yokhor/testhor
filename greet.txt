@@ -1,7 +1,10 @@
-Hi! I'm a testing bot designed by @yokhor. Now I can only test the task C from the SPSU selection, but soon I'll be able to test solutions for other problems.
+Hi! I'm testhor, a testing bot designed by @yokhor. I can test some programming problems. Now only my friends know about it, so there are just a few problems for testing. All that needed to add a problem to the testing base is to write working code for it, a generator and provide a link for the statement of the problem. Write to me if you'd like to add a problem.
+
+I accept solutions written in C++ or Python. I can test only one problem at the same time. I'll be providing you with information on how many tests will have been passed so far. By default I'll test your solution on 1000 randomly generated tests. If the output of your program differs from the correct output, I'll let you know and show input, answer and your output. I'll also notify about compilation and runtime errors.
+ 
+Good luck! Remember writing to @yokhor if something is unclear or goes wrong.
 Commands to use me:
 
 /start — show this message
-/test — enable the ready-to-test mode; the next document sent will be handled as a solution
-/test_all — to automatically test all sent documents; got disabled by the same command
+/test — enable the ready-to-test mode; choose number of the task; the next .cpp or .py file sent will be handled as a solution
 /stop — stop the current testing session if any
