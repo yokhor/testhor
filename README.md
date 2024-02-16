@@ -1,2 +1,2 @@
 # testhor
-yokhor testing bot for competitive programming problems
+[yokhor testing bot](https://t.me/yokhor_testing_bot) for competitive programming problems
